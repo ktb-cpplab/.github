@@ -4,8 +4,7 @@
 ## ☁️ Cloud
 |      Jake(이태윤)    |       Navy(김소담)        |
 | :-----: | :-----: |
-| <img src="https://avatars.githubusercontent.com/u/127961622?v=4" width=90px alt="이태윤"/>  |
-<img src="https://avatars.githubusercontent.com/u/122079946?v=4" width=90px alt="김소담"/>  |
+| <img src="https://avatars.githubusercontent.com/u/127961622?v=4" width=90px alt="이태윤"/>  | <img src="https://avatars.githubusercontent.com/u/122079946?v=4" width=90px alt="김소담"/>  |
 | [@rkfcl](https://github.com/rkfcl) | [@dadamji34](https://github.com/dadamji34) |
 
 ## 📚 Full-Stack
