@@ -20,6 +20,8 @@
 | [@hyeong8465](https://github.com/hyeong8465) | [@sanghoon416](https://github.com/sanghoon416)  
 
 
+# 인공지능
+
 ## 강의 추천
 
 생성된 프로젝트에 도움이 되는 강의를 추천해주는 기능
