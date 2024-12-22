@@ -1,3 +1,83 @@
+## 기술 스택
+
+<table align="center">
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Stack</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">Frontend</td>
+            <td>
+                <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Material-UI-0081CB?logo=mui&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Zustand-635FC7?logo=zustand&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/React Flow-61DAFB?logo=react&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Backend</td>
+            <td>
+                <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Spring Boot-6DB33F?logo=spring-boot&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/JPA-59666C?logo=&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/JWT-000000?logo=json-web-tokens&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/OAuth2-3C873A?logo=oauth&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Database</td>
+            <td>
+                <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Infrastructure</td>
+            <td>
+                <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/ELK-005571?logo=elastic-stack&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">AI</td>
+            <td>
+                <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/LangChain-003545?logo=langchain&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Scikit-learn-F7931E?logo=scikit-learn&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Konlpy-00A3E0?logo=python&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Testing</td>
+            <td>
+                <img src="https://img.shields.io/badge/JMeter-D22128?logo=apache-jmeter&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/nGrinder-8E44AD?logo&logoColor=ffffff">
+            </td>
+        </tr>
+        <tr>
+            <td align="center">Collaboration</td>
+            <td>
+                <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=ffffff">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 
 ## 👥 Team Members
 
