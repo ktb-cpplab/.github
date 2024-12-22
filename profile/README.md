@@ -43,6 +43,7 @@
                 <img src="https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=ffffff">
+                <img src="https://img.shields.io/badge/HCL-5C2D91?logo=terraform&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/ELK-005571?logo=elastic-stack&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=ffffff">
                 <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=ffffff">
